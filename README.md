@@ -8,12 +8,12 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 
 🔗 https://galaxy00-7.github.io/Portfolio-Website/
 
-## 📂 Project Structure
-📁 Portfolio Website/
-|─ index.html
-|─ style.css
-|─ image_raman.png
-|─ README.md
+## 📂 Project Structure  
+📁 Portfolio Website/  
+|─ index.html  
+|─ style.css    
+|─ image_raman.png  
+|─ README.md  
 
 ## 🛠️ Built With
 HTML5
@@ -43,12 +43,12 @@ open index.html
 
 ## 📬 Contact
 
-If you’d like to connect:
+If you’d like to connect:  
  • Email: ramankumarclan@gmail.com  
- • LinkedIn: https://github.com/galaxy00-7/Portfolio-Website/commit/bad8afd66e521674e49573b86964b7758e191ffc#  
- • GitHub: https://github.com/galaxy00-7  
+ • LinkedIn: (https://www.linkedin.com/in/ramankumar-oo7/)  
+ • GitHub: https://github.com/galaxy00-7   
 
 You are free to use this code for any purpose,
 but there is no warranty and the original author isn't liable.
 
-galaxy00-7
+###@galaxy00-7
